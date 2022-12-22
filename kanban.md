@@ -1,13 +1,4 @@
-- O kanban é um jeito de organizar as coisas, apenas arrastando e soltando.
-
-## https://www.notion.so/maykbrito/Drag-...
-
-- Quanto não existir funções com nomes, mais conhecidas como funções anônimas... Utilizamos o arrow function:
-
-    (=>)
-
-- Funções são blocos de notas que executam alguma coisa pra gente!
-
+# O kanban é um jeito de organizar as coisas, apenas arrastando e soltando.
 Events:
 
 dragenter:
