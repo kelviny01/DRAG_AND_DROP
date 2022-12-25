@@ -1,4 +1,5 @@
-# O kanban é um jeito de organizar as coisas, apenas arrastando e soltando.
+# O kanban é um jeito de organizar suas coisas, apenas arrastando e soltando.
+
 Events:
 
 dragenter:
